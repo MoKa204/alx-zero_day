@@ -1,3 +1,3 @@
 My first readme
-I made many tasks today and done almost all of them
-I went through many of git commands and learned a lot
+I practiced using git and github
+I learned many commands used to create a repo and deal with it
